@@ -1,0 +1,7 @@
+﻿  FlightShooting.cpp
+C:\Users\kwans\Desktop\API 연습용\Flight Game\Flight Shooting Game Tranning\FlightShooting.cpp(81,39): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kwans\Desktop\API 연습용\Flight Game\Flight Shooting Game Tranning\FlightShooting.cpp(81,24): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Main.cpp
+  Output.cpp
+  코드를 생성하고 있습니다...
+  Flight Shooting Game Tranning.vcxproj -> C:\Users\kwans\Desktop\API 연습용\Flight Game\Debug\Flight Shooting Game Tranning.exe
